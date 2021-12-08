@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+*This is a temporary text that is added*
 
 [Link to another page](./another-page.html).
 
